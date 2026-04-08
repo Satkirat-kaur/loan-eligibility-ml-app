@@ -1,0 +1,6 @@
+2026-04-08 16:41:30,416 - INFO - Loading dataset from data/credit.csv
+2026-04-08 16:41:30,440 - ERROR - Model training failed: Unknown label type: unknown. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2026-04-08 16:49:56,366 - INFO - Loading dataset from data/credit.csv
+2026-04-08 16:49:56,396 - INFO - Model, scaler, and feature columns saved successfully.
+2026-04-08 17:31:00,216 - INFO - Loading dataset from data/credit.csv
+2026-04-08 17:31:00,254 - INFO - Model, scaler, and feature columns saved successfully.
