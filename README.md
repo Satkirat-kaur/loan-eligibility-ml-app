@@ -188,6 +188,11 @@ https://github.com/Satkirat-kaur/loan-eligibility-ml-app
 
 ---
 
+## Deployed Streamlit App
+
+https://loan-eligibility-ml-app-8aamk8fekpz5bwxcuz8gke.streamlit.app/
+---
+
 ##  Notes
 
 This project demonstrates an end-to-end ML pipeline:
